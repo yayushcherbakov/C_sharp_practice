@@ -1,0 +1,17 @@
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\bin\Debug\netcoreapp3.1\PeerNotepad.exe
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\bin\Debug\netcoreapp3.1\PeerNotepad.deps.json
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\bin\Debug\netcoreapp3.1\PeerNotepad.runtimeconfig.json
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\bin\Debug\netcoreapp3.1\PeerNotepad.runtimeconfig.dev.json
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\bin\Debug\netcoreapp3.1\PeerNotepad.dll
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\bin\Debug\netcoreapp3.1\PeerNotepad.pdb
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.csprojAssemblyReference.cache
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.Form1.resources
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.csproj.GenerateResource.cache
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.AssemblyInfoInputs.cache
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.AssemblyInfo.cs
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.csproj.CoreCompileInputs.cache
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.dll
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.pdb
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.genruntimeconfig.cache
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sherb\source\repos\PeerNotepad\PeerNotepad\obj\Debug\netcoreapp3.1\PeerNotepad.csproj.CopyComplete

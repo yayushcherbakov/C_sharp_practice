@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWpAgpsrzPHV9He0O/UsXxFA1M44CtU4B+h7uqRBR3J6Ex1GJJdLsa2HjiqXcz65LNiWK4uzz5RKYwn0oc08rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sherb\\source\\repos\\PeerNotepad\\PeerNotepad\\PeerNotepad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sherb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

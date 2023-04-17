@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Messager</name>
+    </assembly>
+    <members>
+        <member name="T:Messager.Controllers.MessagerController">
+            <summary>
+            API methods to operate with favorite apartments list
+            </summary>
+            <response code="200">OK.</response>
+            <response code="400">Bad request.</response>
+        </member>
+        <member name="M:Messager.Controllers.MessagerController.RandomGeneration(System.Int32)">
+            <summary>
+            Random generation. Only for initialization. Throw error if users or messages already exist.
+            </summary>
+            <param name="userCount"> Count of users(from 1 to 20)</param>
+        </member>
+        <member name="M:Messager.Controllers.MessagerController.DeleteUsersAndMessages">
+            <summary>
+            Delete all users and messages.
+            </summary>
+        </member>
+        <member name="M:Messager.Controllers.MessagerController.RegisterUser(Messager.Entities.User)">
+            <summary>
+            Register new user.
+            </summary>
+            <param name="user"> User data </param>
+        </member>
+        <member name="M:Messager.Controllers.MessagerController.GetUserInfo(System.String)">
+            <summary>
+            Get user information.
+            </summary>
+            <param name="userId"> User id(email) </param>
+            <returns>User information</returns>
+        </member>
+        <member name="M:Messager.Controllers.MessagerController.GetAllUsers(System.Int32,System.Int32)">
+            <summary>
+            Get all users.
+            </summary>
+            <returns>List of all users by params</returns>
+        </member>
+        <member name="M:Messager.Controllers.MessagerController.GetMessages(System.String,System.String)">
+            <summary>
+            Get messages by sendler and receiver ids.
+            </summary>
+            <param name="sendlerId"> Sendler Id (email) </param>
+            <param name="receiverId"> Receiver Id (email) </param>
+            <returns>List messages</returns>
+        </member>
+        <member name="M:Messager.Controllers.MessagerController.GetMessagesBySendler(System.String)">
+            <summary>
+            Get messages by sendler id.
+            </summary>
+            <param name="sendlerId"> Sendler Id (email) </param>
+            <returns>List messages</returns>
+        </member>
+        <member name="M:Messager.Controllers.MessagerController.GetMessagesByReceiver(System.String)">
+            <summary>
+            Get messages by receiver id.
+            </summary>
+            <param name="receiverId"> Receiver Id (email) </param>
+            <returns>List messages</returns>
+        </member>
+        <member name="M:Messager.Controllers.MessagerController.SendMessage(Messager.Entities.Letter)">
+            <summary>
+            Send message.
+            </summary>
+            <param name="message"> Message to send </param>
+        </member>
+    </members>
+</doc>

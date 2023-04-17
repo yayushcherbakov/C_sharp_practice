@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TlOjcw1JFzqiOP5TMF86uDqKE53lgefP4B8ZPO5SbhZ6F4l07ivr4lOgGgllpqug4sbCBKcrA/pmWs5abe7nkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sherb\\Desktop\\TaskManager\\TaskManager\\TaskManager\\TaskManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sherb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

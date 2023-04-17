@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pavee\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pavee\\.nuget\\packages"
+    ]
+  }
+}
